@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-n-shreyas&label=Profile%20views&color=0e75b6&style=flat" alt="s-n-shreyas" /> </p>
 
-- 📫 How to reach me **sn.shreyas12@gmail.com**
+- 📫 How to reach me [sn.shreyas12@gmail.com](sn.shreyas12@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VfjsqNIqqjz5kfxeQvxoLeuHPHPEe-9A/view?usp=drive_link](https://drive.google.com/file/d/1VfjsqNIqqjz5kfxeQvxoLeuHPHPEe-9A/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at **Click Here**
+
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1VfjsqNIqqjz5kfxeQvxoLeuHPHPEe-9A/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
