@@ -5,13 +5,13 @@
 
 - 📫 How to reach me [sn.shreyas12@gmail.com](sn.shreyas12@gmail.com)
 
-- 👨‍💻 All of my projects are available at **Click Here**
+- 👨‍💻 All of my details are available [Here](https://s-n-shreyas.github.io/)
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1VfjsqNIqqjz5kfxeQvxoLeuHPHPEe-9A/view?usp=drive_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1Njy5nrYRRPQowumuATUeZR8PQJ01IxbL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/snshreyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/snshreyas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/snshreyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/snshreyas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
