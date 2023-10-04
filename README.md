@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-n-shreyas&label=Profile%20views&color=0e75b6&style=flat" alt="s-n-shreyas" /> </p>
 
-- 📫 How to reach me [sn.shreyas12@gmail.com](sn.shreyas12@gmail.com)
+- 📫 How to reach me: sn.shreyas12@gmail.com
 
 - 👨‍💻 All of my details are available [Here](https://s-n-shreyas.github.io/)
 
