@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my details are available [Here](https://s-n-shreyas.github.io/)
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1KciFGCgf5M21L6Q0RHPN30oUJCoh3Q89/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1Vxq1NHZ3T9HdUo4hBUTAO2QtLDoFxTtb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
