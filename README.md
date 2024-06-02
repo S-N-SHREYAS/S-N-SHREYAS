@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S N SHREYAS</h1>
-<h3 align="center">AWS | DevOps | Software Engineer</h3>
+<h3 align="center">DevOps | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-n-shreyas&label=Profile%20views&color=0e75b6&style=flat" alt="s-n-shreyas" /> </p>
 
