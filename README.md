@@ -9,7 +9,7 @@
 
 - 📫 How To Reach Me: **sn.shreyas12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18hYuK1B5QO29eSiL0IFkOPBmpQjnO3ia/view?usp=sharing](https://drive.google.com/file/d/18hYuK1B5QO29eSiL0IFkOPBmpQjnO3ia/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/18hYuK1B5QO29eSiL0IFkOPBmpQjnO3ia/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-n-shreyas&show_icons=true&locale=en&layout=compact" alt="s-n-shreyas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-n-shreyas&show_icons=true&locale=en" alt="s-n-shreyas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-n-shreyas&" alt="s-n-shreyas" /></p>
