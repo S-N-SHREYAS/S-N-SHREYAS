@@ -8,7 +8,7 @@
 
 - 🌱 I’m Currently Learning:  **.NET Framework**
 
-- 👨‍💻 All Of My Projects Are Available At:  [s-n-shreyas.github.io](s-n-shreyas.github.io)
+- 👨‍💻 All Of My Details Are Available At:  [s-n-shreyas.github.io](s-n-shreyas.github.io)
 
 - 📫 How To Reach Me:  **sn.shreyas12@gmail.com**
 
